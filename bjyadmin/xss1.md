@@ -29,4 +29,4 @@ Manual verification:
 ![alt text](2.png)
 
 
-@baijunyao
+The developers were informed of the report by sending an email on 09/07/2024.
