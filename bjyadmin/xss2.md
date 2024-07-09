@@ -28,4 +28,4 @@ Manual verification:
 
 ![alt text](4.png)
 
-The developers were informed of the report by sending an email on 09/07/2024.
+The developers were informed of the report in here : https://github.com/baijunyao/laravel-restful/issues/3
