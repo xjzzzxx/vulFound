@@ -1,6 +1,6 @@
 A xss vulnerability in icecoder 8.1.
 
-In file https://github.com/icecoder/ICEcoder/blob/master/lib/settings-screen.php
+In file lib/settings-screen.php
 
 ```php
 ...
